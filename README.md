@@ -1,6 +1,6 @@
 ## Olá, eu sou a Hellen Vermonde!
 <div align="center">
-  <a href="https://github.com/hvermonde">
+  <a href="https://beacons.ai/hvermonde">
   <img height="180em", widht="50%" src="https://github-readme-stats.vercel.app/api?username=hvermonde&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em", widht="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvermonde&layout=compact&langs_count=7&theme=dracula"/>
 </div>
