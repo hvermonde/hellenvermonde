@@ -1,12 +1,12 @@
 ## Oiii eu sou a Hellen Vermonde!
 
-<div align="center">  
-  <a href="https://github.com/hvermonde/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hellenvermonde&repo=github-readme-stats" />
+<div align="center">
+  <a href="https://github.com/hvermonde/hvermonde">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hvermonde&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
   </a>
   <a href="https://github.com/hvermonde/hvermonde">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hvermonde&repo=convoychat" />
-  </a>    
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvermonde&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
