@@ -8,7 +8,7 @@
   <a href="https://github.com/hvermonde/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hvermonde&repo=github-readme-stats" />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/hvermonde/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hvermonde&repo=convoychat" />
   </a>    
 </div>
