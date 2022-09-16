@@ -6,9 +6,9 @@
 </div>
 <div align="center">  
   <a href="https://github.com/hvermonde/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hvermonde&repo=github-readme-stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hellenvermonde&repo=github-readme-stats" />
   </a>
-  <a href="https://github.com/hvermonde/convoychat">
+  <a href="https://github.com/hvermonde/hvermonde">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hvermonde&repo=convoychat" />
   </a>    
 </div>
