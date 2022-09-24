@@ -19,6 +19,7 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" color=#FF0000 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  <i class="devicon-flask-original"></i> 
           
 </div>
   
