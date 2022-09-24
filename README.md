@@ -18,7 +18,10 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />            
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img  align="center" alt="Rafa-Csharp" height="30" width="40" fill="#FF0000" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />         
+  <img  align="center" alt="Rafa-Csharp" height="30" width="40" fill="#FF0000" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  <svg fill="#FF0000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
+    <img  align="center" alt="Rafa-Csharp" height="30" width="40" fill="#FF0000" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  </svg>
 </div>
   
   ##
